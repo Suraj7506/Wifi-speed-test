@@ -1,0 +1,10 @@
+Installation
+This module does not come built-in with Python. To install it type the below command in the terminal.
+
+pip install speedtest-cli
+
+after installing speedtest in your terminal then type this in your terminal,
+
+To print a simpler version of the speed test result containing only Ping, Download & Upload results instead of detailed output.
+
+speedtest-cli --simple
